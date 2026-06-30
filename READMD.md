@@ -1,12 +1,12 @@
 # FastAPI
 
-1.安装
+## 1.安装
 打开终端，输入
 ```shell
 $ pip install fastapi 
 ```
 
-2.写app/main.py
+## 2.写app/main.py
 ```python
 from fastapi import FastAPI
 
